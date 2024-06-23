@@ -9,7 +9,7 @@ import { initializeApp } from 'firebase/app';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
  const firebaseConfig = {
-  apiKey: 'AIzaSyA3o9YeqdirO4v_PpJxDzte2pPTMBl9lSI',
+  apiKey: '',
   authDomain: 'rafat-inventory.firebaseapp.com',
   projectId: 'rafat-inventory',
   storageBucket: 'rafat-inventory.appspot.com',
