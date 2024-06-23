@@ -2,7 +2,7 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyA3o9YeqdirO4v_PpJxDzte2pPTMBl9lSI',
+    apiKey: '',
     authDomain: 'rafat-inventory.firebaseapp.com',
     projectId: 'rafat-inventory',
     storageBucket: 'rafat-inventory.appspot.com',
